@@ -1,0 +1,57 @@
+.nav-link{
+ padding: 10px;
+ margin-left: -1em;
+}
+
+#header{
+
+    position: fixed;
+    top: 0;
+    min-width: 100%;
+    padding: 10px;
+    justify-content: space-around;
+    background-color: crimson;
+  
+
+}
+
+#header-img{
+ max-width: 8em;
+}
+
+a{
+
+color: rgb(0, 0, 0);
+
+}
+
+body{
+ font-family: sans-serif;
+ background-color: rgb(0, 0, 0);
+}
+
+#submit{
+    min-height: 2em ;
+    min-width: 5em ;
+}
+
+#sex{
+
+ margin-top: 18%;
+ padding: 50px;
+ background-color: rgb(126, 126, 126);
+
+}
+
+#blue{
+
+color: rgb(255, 255, 255);
+
+}
+
+#form-div{
+
+color: white;
+
+}
+  
